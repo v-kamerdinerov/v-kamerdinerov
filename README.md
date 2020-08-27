@@ -1,6 +1,7 @@
-### Hello there 👋
-
+### Hello there  <img width="100px" src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" />
 I am just starting to study IT, I will try not to drown in this diverse area :) 🤓
+
+
 
 ### My newbee skill
 
