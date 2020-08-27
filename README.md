@@ -17,7 +17,6 @@ I am just starting to study IT, I will try not to drown in this diverse area :) 
     <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 
 
-
 <!--
 **v-kamerdinerov/v-kamerdinerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
