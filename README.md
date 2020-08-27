@@ -3,8 +3,6 @@
 I am just starting to study IT, I will try not to drown in this diverse area :) 🤓
 
 ### My newbee skill
--  What i know nor bad:  
-  <img align="left" alt="Windows" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/windows-19-190819.png" />  
 
 -  I’m currently learning:
 
