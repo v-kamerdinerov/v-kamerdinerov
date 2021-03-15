@@ -3,7 +3,7 @@ I am work in EPAM as System Engineer 🤓
 
 
 
-### My newbee skill
+### My skill
 
 -  I’m currently learning:
 
