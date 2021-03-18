@@ -1,12 +1,11 @@
 ### Hello there  👋 
 <img width="100px" src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" />
-I am work in EPAM as System Engineer 🤓
-
+I work as a Systems Engineer at EPAM
 
 
 ### My skill
 
--  I’m currently learning:
+-  I’m currently work with:
 
     <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     <img align="left" alt="CentOS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redhat/redhat-original-wordmark.svg" />
