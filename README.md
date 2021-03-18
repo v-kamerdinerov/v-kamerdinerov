@@ -14,6 +14,8 @@ I am work in EPAM as System Engineer 🤓
     <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
     <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
     <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+    <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg" />
+
 
 
 <!--
