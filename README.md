@@ -1,6 +1,6 @@
 ### Hello there  👋 
 <img width="100px" src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg" />
-I work as a Systems Engineer at EPAM
+
 
 
 ### My skill
