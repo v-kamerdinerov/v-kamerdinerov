@@ -3,7 +3,7 @@
 
 
 
-### My skill
+### My skills
 
 -  I’m currently work with:
 
