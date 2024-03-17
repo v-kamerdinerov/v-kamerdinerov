@@ -20,6 +20,13 @@
     <img align="left" alt="Openstack" width="40px" src="https://img.icons8.com/color/480/openstack.png" />
 
 
+<br /><br />
+
+---
+
+![Vlad Kamerdinerov GitHub stats](https://github.com/v-kamerdinerov/github-stats/blob/master/generated/overview.svg)
+![Vlad Kamerdinerov GitHub stats](https://github.com/v-kamerdinerov/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **v-kamerdinerov/v-kamerdinerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
